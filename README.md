@@ -2,7 +2,7 @@
 *Group 01* | DSA 2040A – Semester Project
 
 ## Group Members
-- 
+- Collins
 - Rita
 - Dima
 
