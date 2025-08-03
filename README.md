@@ -4,7 +4,7 @@
 ## Group Members
 - 
 - Rita
-- 
+- Dima
 
 ## Project Summary
 This project analyzes retail sales data, as shown across four key dashboards: Sales Overview, Product Insights, Customer Insights and Store Performance. The dashboards provide a comprehensive view of business operations, from high-level sales KPIs to granular customer and product data. Key metrics tracked include total sales, revenue by channel and category, customer demographics and store-specific performance. The visualizations highlight trends, top performers and opportunities for business improvement.
