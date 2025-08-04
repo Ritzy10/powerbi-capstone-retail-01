@@ -14,22 +14,22 @@ This project analyzes retail sales data, as shown across four key dashboards: Sa
 - *Top Insights*:
   1. Sales by Channel - The "Sales Overview" dashboard indicates that the Mobile App channel generates the highest revenue at $8.83M, outperforming both In-Store and Online sales.
  
- <img src="powerbi_dashboards/salesdashboard.png" width="500">
+ <img src="powerbi_dashboard/salesdashboard.png" width="500">
 
 
   2. Customer Demographics - The "Customer Insights" dashboard reveals that the Youth age group accounts for the highest quantity of products sold. The state with the most customers is TX.
 
- <img src="powerbi_dashboards/customerdashboard.png" width="500">
+ <img src="powerbi_dashboard/customerdashboard.png" width="500">
 
 
   3. Product Performance - The "Product Insights" dashboard shows that "Cameras" and "Accessories" are the top-performing product categories by revenue.
 
- <img src="powerbi_dashboards/productdashboard.png" width="500">
+ <img src="powerbi_dashboard/productdashboard.png" width="500">
 
 
   4. Store Performance - The "Store Performance" dashboard highlights that TechMart Downtown is the top-performing store.
 
-   <img src="powerbi_dashboards/storeperfomance.png" width="500">
+   <img src="powerbi_dashboard/storedashboard.png" width="500">
 
 
 - *ROI Estimate*: $120K annual savings from return reduction and targeted promotions
