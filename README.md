@@ -1,5 +1,5 @@
 # Power BI Capstone Project – Retail Sales Analytics
-*Group 01* | DSA 3050 – Semester Project
+*Group 1* | DSA 3050 – Semester Project
 
 ## Group Members
 - Collins
@@ -36,6 +36,9 @@ This project analyzes retail sales data, as shown across four key dashboards: Sa
 
 ## Technical Features
 - Star schema model with 5 tables.
+
+ <img src="documentation/data_model_diagram.png" width="500">
+
 - 30+ DAX measures.
 - A comprehensive dashboard with multiple pages for Sales, Products, Customers and Store Performance.
 - Key metrics are displayed prominently, including Total Sales, Total Customers, Total Revenue and Repeat Customer Rate.
