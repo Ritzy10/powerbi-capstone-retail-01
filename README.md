@@ -1,5 +1,5 @@
 # Power BI Capstone Project – Retail Sales Analytics
-*Group 01* | DSA 2040A – Semester Project
+*Group 01* | DSA 3050 – Semester Project
 
 ## Group Members
 - Collins
