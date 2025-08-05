@@ -32,7 +32,7 @@ This project analyzes retail sales data, as shown across four key dashboards: Sa
    <img src="powerbi_dashboard_images/storedashboard.png" width="500">
 
 
-- *ROI Estimate*: $120K annual savings from return reduction and targeted promotions
+- Next annual year ROI estimate: >6.8% due to targeted marketing and lower return rates.
 
 ## Technical Features
 - Star schema model with 5 tables.
